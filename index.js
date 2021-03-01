@@ -1,5 +1,5 @@
 'use strict';
 
-const { SchemaValidator } = require('./schema-validator');
+const { SchemaValidator } = require('./lib');
 
 module.exports = SchemaValidator;
